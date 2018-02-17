@@ -12,7 +12,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
 Plugin 'vim-scripts/indentpython.vim'
-Bundle 'Valloric/YouCompleteMe'
+"Bundle 'Valloric/YouCompleteMe'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'jnurmine/Zenburn'
@@ -100,3 +100,4 @@ let NERDTreeIgnore=['\.pyc$', '\~$'] "ignore files in NERDTree
 
 set colorcolumn=80              " Show the 80th char column.
 highlight ColorColumn ctermbg=59
+
