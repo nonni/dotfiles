@@ -24,6 +24,7 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tpope/vim-fugitive'
 "Plugin 'vim-ctrlspace/vim-ctrlspace'
 Plugin 'scrooloose/nerdtree'
+Plugin 'sophacles/vim-processing'
 
 " Add all your plugins here (note older versions of Vundle used Bundle instead of Plugin)
 
